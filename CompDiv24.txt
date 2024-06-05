@@ -1,0 +1,970 @@
+           Audit Report
+
+
+
+
+   Comptroller of Maryland
+     Compliance Division
+
+
+            May 2024
+
+
+
+
+  OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+  MARYLAND GENERAL ASSEMBLY
+                              Joint Audit and Evaluation Committee
+     Senator Clarence K. Lam, M.D. (Senate Chair)    Delegate Jared Solomon (House Chair)
+               Senator Joanne C. Benson                    Delegate Steven J. Arentz
+              Senator Paul D. Corderman                Delegate Andrea Fletcher Harrison
+               Senator Katie Fry Hester                   Delegate Steven C. Johnson
+              Senator Shelly L. Hettleman                 Delegate Mary A. Lehman
+               Senator Cheryl C. Kagan                       Delegate David Moon
+               Senator Cory V. McCray                    Delegate Julie Palakovich Carr
+                Senator Justin D. Ready                  Delegate Stephanie M. Smith
+             Senator Bryan W. Simonaire                  Delegate M. Courtney Watson
+                Senator Craig J. Zucker                          One Vacancy
+
+
+
+
+                                    To Obtain Further Information
+                                       Office of Legislative Audits
+                                     The Warehouse at Camden Yards
+                                    351 West Camden Street, Suite 400
+                                       Baltimore, Maryland 21201
+                                           Phone: 410-946-5900
+                                           Maryland Relay: 711
+                                    TTY: 410-946-5401 ꞏ 301-970-5401
+                                    E-mail: webmaster@ola.state.md.us
+                                      Website: www.ola.state.md.us
+
+
+
+                                           To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+
+
+                                        Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+                                     May 3, 2024
+
+
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+
+Ladies and Gentlemen:
+
+We have conducted a fiscal compliance audit of the Comptroller of Maryland
+(COM) – Compliance Division for the period beginning March 18, 2019 and
+ending March 15, 2022. The Division is primarily responsible for enforcement of
+all tax laws administered by COM, including those relating to individual income
+taxes and business taxes such as corporate income, withholding, and sales and use
+taxes. The Division was also responsible for administering the Uniform
+Disposition of Unclaimed Property Act.
+
+Our audit disclosed that the Division did not always assess penalties when holders
+of unclaimed property failed to remit such property to the Division. During the
+audit period such assessments were required by law; however, the applicable law
+has since been modified to permit the Division to waive the penalties, yet the
+Division had not formalized a policy on the penalty waiver process. In addition,
+the Division did not ensure that adjustments to business tax accounts processed by
+one Division unit were reviewed by supervisory personnel.
+
+Our audit also disclosed that the Division did not conduct required supervisory
+reviews of State payments to taxpayers released from the Liability Intercept
+Program, and that the Division only conducted a minimal number of Bay
+Restoration Fee audits and excluded the entities that collected the majority of
+these fees.
+
+Finally, our audit included a review to determine the status of the five findings
+contained in our preceding audit report. We determined that the Division
+satisfactorily addressed three of those findings. The remaining two findings are
+repeated in this report.
+COM’s response to this audit, on behalf of the Division, is included as an
+appendix to this report. We reviewed the response to our findings and related
+recommendations, and have concluded that the corrective actions identified are
+sufficient to address all issues.
+
+We wish to acknowledge the cooperation extended to us during the audit by the
+Division. We also wish to acknowledge COM’s and the Division’s willingness to
+address the audit issues and implement appropriate corrective actions.
+
+
+                                            Respectfully submitted,
+
+
+
+
+                                            Gregory A. Hook, CPA
+                                            Legislative Auditor
+
+
+
+
+                                        2
+                                Table of Contents
+
+    Background Information                                                           4
+
+       Agency Responsibilities                                                       4
+       Organizational Change                                                         5
+       Status of Findings From Preceding Audit Report                                6
+
+    Findings and Recommendations                                                     7
+
+    Unclaimed Property
+*     Finding 1 – The Division did not always assess penalties for holders of        7
+          unclaimed property that failed to remit such property to the Division.
+
+    Adjustments to Taxpayer Accounts
+*      Finding 2 – Adjustments to business taxpayer accounts processed by one        8
+          Division unit were not always reviewed by supervisory personnel as
+          required.
+
+    Liability Intercept Program
+       Finding 3 – The Division did not conduct required supervisory reviews        10
+           of State payments to taxpayers released from the Liability Intercept
+           Program.
+
+    Bay Restoration Fee
+       Finding 4 – The Division only conducted a minimal number of Bay              11
+          Restoration Fee audits and excluded the entities that collected the
+          majority of these fees.
+
+    Audit Scope, Objectives, and Methodology                                        12
+
+    Exhibit 1 – Listing of Most Recent Office of Legislative Audits Fiscal          15
+       Compliance Audits of Comptroller of Maryland Divisions as of March
+       2024
+
+    Agency Response                                                                Appendix
+
+
+
+
+*      Denotes items repeated in full or part from preceding audit report
+
+
+                                            3
+                       Background Information
+
+Agency Responsibilities
+
+The Compliance Division’s primary responsibilities include enforcement of all
+tax laws administered by the Comptroller of Maryland (COM), including those
+relating to individual income taxes, as well as business taxes such as corporate
+income, withholding, and sales and use taxes. Primary functions include
+conducting taxpayer audits and investigations, collecting delinquent taxes, and
+performing other taxpayer compliance activities. In conjunction with these
+functions, the Division levies tax assessments and processes tax appeals.
+Collection tools used by the Division include filing tax liens, issuing bank
+attachments, employing independent collection agencies, and other steps such as
+preventing the renewal of an individual’s driver’s license. The Division uses the
+COM’s automated State of Maryland Tax system to access, retrieve, and record
+tax data and other information as necessary. The Division was also responsible
+for administering the Uniform Disposition of Unclaimed Property Act.
+
+According to the Division’s records, as of June 30, 2022, outstanding individual
+income taxes (excluding interest and penalties) and business taxes that were
+subject to collection by the Division totaled approximately $1.0 billion and
+$473.4 million, respectively. These amounts represent a significant increase from
+prior years. As of June 30, 2019, outstanding individual income taxes (excluding
+interest and penalties) and business taxes that were subject to collection by the
+Division totaled approximately $617.9 million and $364.3 million, respectively.
+Per the Division, the significant increases in outstanding taxes subject to
+collection from fiscal year-end 2019 to 2022, were due primarily to the effects of
+the COVID pandemic, which delayed collection efforts for an extended period
+(March 2020 to August 2021).
+
+According to the State’s records, during fiscal year 2022, the Division’s
+expenditures totaled approximately $34.5 million (see Figure 1 on the following
+page) and collections from its enforcement programs totaled $616.6 million.
+
+
+
+
+                                        4
+                          Figure 1
+   Division Positions, Expenditures, and Funding Sources
+            Full Time Equivalent Positions as of June 30, 2022
+                                                    Positions   Percent
+ Filled                                               323          85.4%
+ Vacant                                                45          11.9%
+ Frozen                                                  1          0.3%
+ Closed                                                  9          2.4%
+ Total                                                378
+
+                    Fiscal Year 2022 Expenditures
+                                        Expenditures            Percent
+ Salaries, Wages, and Fringe Benefits     $28,372,302              82.3%
+ Technical and Special Fees                   249,828               0.7%
+ Operating Expenses                         5,865,263              17.0%
+ Total                                    $34,487,393
+
+                        Fiscal Year 2022 Funding Sources
+                                                Funding         Percent
+ General Fund                                  $23,840,845         69.1%
+ Special Fund                                    10,646,548        30.9%
+ Total                                         $34,487,393
+
+Source: State financial and personnel records
+
+
+
+
+Organizational Change
+
+Effective January 2023, COM transferred the Hearings and Appeals Unit and the
+Unclaimed Property Unit from the Compliance Division to a newly formed Law
+and Oversight Office, as their own Divisions. The Hearings and Appeals Division
+conducts administrative reviews and holds hearings for disputed tax cases. The
+Unclaimed Property Division is responsible for administering the Uniform
+Disposition of Unclaimed Property Act. The activities of Hearings and Appeals
+and Unclaimed Property through March 15, 2022 were included in this audit.
+
+
+
+
+                                                5
+ Status of Findings From Preceding Audit Report
+
+ Our audit included a review to determine the status of the five findings contained
+ in our preceding audit report dated December 18, 2020. As disclosed in Figure 2,
+ we determined that the Division satisfactorily addressed three of these findings.
+ The remaining two findings are repeated in this report.
+
+
+                               Figure 2
+                     Status of Preceding Findings
+Preceding                                                                 Implementation
+                             Finding Description
+ Finding                                                                      Status
+            The Division did not consistently perform three of its
+            available compliance programs designed to identify and           Not repeated
+Finding 1
+            pursue certain individuals who failed to file required tax
+            returns or report all income.
+            The Division did not ensure that tax assessments for
+            businesses that failed to file required tax returns were
+Finding 2                                                                    Not repeated
+            prepared and recorded timely in accordance with its
+            procedures.
+            The Division did not adequately control critical
+                                                                              Repeated
+Finding 3   adjustments to taxpayer accounts in COM’s automated
+                                                                          (Current Finding 2)
+            State of Maryland Tax system.
+            The Division did not assess penalties, as required by law,
+                                                                              Repeated
+Finding 4   when holders of unclaimed property failed to remit such
+                                                                          (Current Finding 1)
+            property to the Division.
+            The Division did not ensure that manual calculations of
+            interest and penalties included in sales and use tax
+Finding 5                                                                    Not repeated
+            assessments were accurate, which resulted in incorrect
+            interest and penalties being assessed on certain taxpayers.
+
+
+
+
+                                            6
+                  Findings and Recommendations
+
+Unclaimed Property
+
+Finding 1
+The Division did not always assess penalties when holders of unclaimed
+property failed to remit such property to the Division.
+
+Analysis
+During the audit period, the Division did not always assess required penalties
+when holders of unclaimed property, such as financial institutions and insurance
+companies, failed to report and remit the property to the Division. Further, when
+the State law that was in place during the audit period that required a penalty
+assessment was modified effective October 1, 2022 to permit the Division to
+waive penalties, we found that the Division had not formalized a policy or process
+for waiving penalties.
+
+State law provides that unclaimed property, such as savings accounts, shall be
+reported and remitted by the property holder to the Division annually. In general,
+property is assumed to be abandoned when there is no owner contact with the
+holder regarding the property for three years. State law in effect during the audit
+provided that if unclaimed property is not remitted by the holder when required, a
+financial penalty equal to 15 percent of the property value is to be imposed on the
+holder. However, we were advised by Division management that the Division’s
+unofficial policy had been to not assess this penalty when property is identified by
+its independent contractors to maintain a positive working relationship with
+property holders.
+
+The Division uses several independent contractors to perform nationwide audits to
+help identify and recover unreported unclaimed property owned by Maryland
+residents. However, when the contractors identified unclaimed property not
+previously reported and remitted, the Division did not assess the required
+penalties on the property holder for failing to report and remit the unclaimed
+property on their own. According to the Division’s records, between July 2019
+and March 2022, unreported unclaimed property totaling approximately $71.5
+million was identified by the contractors that was subsequently to be transferred
+to the State. The Division’s practice of not assessing penalties resulted in the
+State not collecting approximately $10.7 million (15 percent of the value of the
+property) from the related property holders for failing to remit the unclaimed
+property.
+
+
+
+
+                                         7
+Timely submission by holders of unclaimed property is critical to ensure the
+Division can facilitate the return of the funds to the rightful owner. Furthermore,
+the Division paid commissions totaling $7.6 million (6 to 12 percent of the
+identified amount remitted to the State) to the audit contractors during the
+aforementioned period. Since these commissions are paid using State funds, the
+assessment of penalties would offset the audit costs to the State.
+
+This condition was commented upon in our preceding audit report. In response to
+that report, the Comptroller of Maryland (COM), on behalf of the Division, stated
+that by April 2021, it would consult with its legal counsel and seek legislative
+sponsorship to amend the law to authorize COM to exercise discretion in waiving
+the penalty. In addition, the response indicated that by June 2021, COM would
+consult with its counsel to determine the feasibility of retroactively assessing
+penalties.
+
+During the 2022 legislative session, the law was amended to permit COM to
+waive the 15 percent penalty effective October 1, 2022. However, as noted
+above, assessments were waived prior to the law change. In addition, COM had
+not established formal written policies and procedures governing when waivers
+would be issued or the approval process required for the waivers. Finally, the
+Division had not consulted with its counsel regarding the feasibility of retroactive
+assessments, during the period prior to the aforementioned law change granting
+COM discretion over penalty assessments.
+
+Recommendation 1
+We recommend that the Division
+a. consult with legal counsel to determine the feasibility of retroactively
+   assessing penalties for unremitted unclaimed property identified prior to
+   implementation of the aforementioned law (repeat), and
+b. develop formal policies and procedures governing waivers of assessments
+   including criteria for the waiver and the related approval process.
+
+
+Adjustments to Taxpayer Accounts
+
+Finding 2
+Adjustments to business taxpayer accounts processed by one Division unit
+were not always reviewed by supervisory personnel as required.
+
+Analysis
+Adjustments to business taxpayer accounts processed by one Division unit were
+not always reviewed by supervisory personnel as required by COM procedures.
+
+
+                                         8
+Specifically, we identified 29 months during which required reviews had not been
+performed by this unit even though the unit processed adjustments totaling at least
+$45.1 million during these months.1 The unit processes adjustments that may
+increase or decrease a taxpayer’s liability due to field audits conducted.
+Furthermore, our test of ten adjustments that reduced taxpayer liabilities by $4.1
+million but had not been reviewed disclosed one adjustment totaling $578,482
+that lacked adequate supporting documentation, such as documentation
+supporting the accuracy of the amount processed.
+
+Division management advised us that due to limitations with its automated system
+it cannot establish online controls over critical adjustments, and instead relies on
+supervisory reviews of output reports of critical transactions processed. However,
+our review disclosed that supervisory reviews were not performed for any
+adjustments processed by the Division unit between November 2019 and
+November 2021 and between March 2022 and June 2022.
+
+A similar condition was noted in our two preceding audit reports. In its response
+to our preceding report, COM, on behalf of the Division, agreed to ensure that all
+critical adjustments to taxpayer accounts are reviewed and approved in
+accordance with established procedures by April 2020. As noted above, the
+reviews were not completed and the Division did not have a specific reason for
+the lack of reviews during the months noted.
+
+Recommendation 2
+We recommend that the Division
+a. ensure that critical adjustments to taxpayer accounts identified on output
+   reports are reviewed by an independent supervisor, and that adequate
+   documentation supporting the adjustments and their independent review
+   and approval is maintained (repeat); and
+b. ensure that adequate supporting documentation is maintained for all
+   adjustments processed.
+
+
+
+
+1
+    A limitation exists within the automated system used by the Division that prevents the Division
+    or us from readily determining the exact total of adjustments processed by the unit.
+
+
+                                                   9
+Liability Intercept Program
+
+Finding 3
+The Division did not conduct required supervisory reviews of State payments
+to taxpayers released from the Liability Intercept Program.
+
+Analysis
+Supervisory reviews of State payments to taxpayers released from the Liability
+Intercept Program were not conducted as required. COM can withhold a State
+payment to satisfy a liability of $50 or more due to the State. Some or all of the
+payment may subsequently be released to the taxpayer after payment of the debt
+to the State or in certain other circumstances, such as establishment of a payment
+plan. Division employees can unilaterally release payments withheld due to tax
+debts, such as those relating to sales and use tax, withholding tax, and corporate
+or individual income tax; and consequently, the Division has a policy requiring
+daily supervisory review of these released payment transactions.
+
+Our review disclosed that as of March 10, 2023, supervisors had not reviewed
+output reports of these released payments since August 16, 2021. According to its
+records, the Division released approximately 25,000 payments, each exceeding
+$100 and totaling approximately $534.2 million between August 2021 and June
+2022. The Division’s written procedures require daily supervisory reviews of
+output reports of released payments. The supervisor is to document their review
+of one release on every two pages of the report, to help ensure that payments
+released were proper. According to Division management, when collection
+efforts resumed after the COVID pandemic in August 2021, these reviews were
+not performed due to time constraints imposed by implementation of a new tax
+system, required system training, and responding to a high volume of taxpayer
+correspondence.
+
+Recommendation 3
+We recommend that the Division
+a. ensure that required supervisory reviews are performed and
+   documented, and
+b. review released payments during the aforementioned period and take
+   corrective action for any unsupported or improper funds released.
+
+
+
+
+                                        10
+Bay Restoration Fee
+
+Finding 4
+The Division only conducted a minimal number of Bay Restoration Fee
+(BRF) audits and excluded the entities that collected the majority of these
+fees.
+
+Analysis
+The Division only conducted a minimal number of BRF audits and no audits were
+conducted of entities that collected the majority of these fees. Specifically, the
+Division did not audit local governments or designated billing authorities even
+though these entities remitted $300.7 million of the $305.5 million in BRFs
+submitted to COM in fiscal year 2022. Of the 217 entities that remitted fees for
+that year, we determined that 108 were local governments or designated billing
+authorities. Furthermore, according to the Division’s records, overall only 17
+audits were conducted between October 2016 and June 2022.
+
+State law provides for the assessment of a BRF for any user of a wastewater
+facility, an on-site sewage disposal system, or a holding tank that is located in
+Maryland or serves a Maryland user. The amounts of the fees are established in
+law and are initially collected by billing authorities authorized by the State’s
+Department of Environment, which include local governments and designated
+billing authorities, as well as private entities, such as a condominium association
+or a mobile home park. All fees are forwarded to COM on a quarterly basis,
+along with a return form specifying fees due and collected for deposit into the
+State’s Bay Restoration Fund to provide funding for upgrading wastewater
+treatment facilities.
+
+The Division conducts periodic audits of the entities that initially collect the fees
+to help ensure that the required fees are collected and forwarded to COM.
+Division management advised us that the BRF audits historically have not
+generated significant recoveries. However, as noted above, the most material
+entities are not subject to audit, and the number of audits is limited. During our
+audit period 10 BRF audits were conducted, including 8 that resulted in
+assessments totaling $270,358.
+
+Recommendation 4
+We recommend that the Division develop a formal plan to subject all entities
+collecting BRFs to audit, including those noted above, which considers
+factors such as materiality, risk, and prior audit findings.
+
+
+
+
+                                          11
+           Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Comptroller of Maryland
+(COM) – Compliance Division for the period beginning March 18, 2019 and
+ending March 15, 2022. The audit was conducted in accordance with generally
+accepted government auditing standards. Those standards require that we plan
+and perform the audit to obtain sufficient, appropriate evidence to provide a
+reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings
+and conclusions based on our audit objectives.
+
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine the Division’s
+financial transactions, records, and internal control, and to evaluate its compliance
+with applicable State laws, rules, and regulations.
+
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included the identification, assessment, and collection of
+individual income taxes and various business taxes; and the identification,
+collection, and distribution of unclaimed property. We also determined the status
+of the findings contained in our preceding audit report.
+
+Our audit did not include certain support services provided to the Division by
+COM – Office of the Comptroller. These support services (such as processing of
+invoices, maintenance of accounting records, human resources, and related fiscal
+functions) are included within the scope of our audit of the Office of the
+Comptroller. In addition, our audit did not include certain support services
+provided to the Division by COM – Central Payroll Bureau, effective January 1,
+2018. These support services (payroll processing) are included within the scope
+of our audit of the Central Payroll Bureau since that date. Furthermore, our audit
+did not include certain support services provided to the Division by COM –
+Information Technology Division related to the monitoring of information
+technology equipment and services and the operation of the Annapolis Data
+Center. The operation of the Annapolis Data Center includes the development
+and maintenance of Division applications and maintenance of the operating
+system and security software environment. These support services are included in
+the scope of our audit of the Information Technology Division.
+
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+
+
+                                         12
+period of March 18, 2019 to March 15, 2022, but may include transactions before
+or after this period as we considered necessary to achieve our audit objectives.
+
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of the Division’s operations.
+Generally, transactions were selected for testing based on auditor judgment,
+which primarily considers risk, the timing or dollar amount of the transaction, or
+the significance of the transaction to the area of operation reviewed. As a matter
+of course, we do not normally use sampling in our tests, so unless otherwise
+specifically indicated, neither statistical nor non-statistical audit sampling was
+used to select the transactions tested. Therefore, unless sampling is specifically
+indicated in a finding, the results from any tests conducted or disclosed by us
+cannot be used to project those results to the entire population from which the test
+items were selected.
+
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data), as well as from the contractor administering the State’s Corporate
+Purchasing Card Program (credit card activity). The extracts are performed as
+part of ongoing internal processes established by the Office of Legislative Audits
+and were subject to various tests to determine data reliability. We determined that
+the data extracted from these sources were sufficiently reliable for the purposes
+the data were used during this audit.
+
+We also extracted data from COM’s automated State of Maryland Tax system,
+and the systems used by the Division to account for and monitor unclaimed
+property and business tax collections for the purpose of testing certain areas, such
+as collection activity and the disposition of unclaimed property. We performed
+various tests of the relevant data and determined that the data were sufficiently
+reliable for the purposes the data were used during the audit. Finally, we
+performed other auditing procedures that we considered necessary to achieve our
+audit objectives. The reliability of data used in this report for background or
+informational purposes was not assessed.
+
+The Division’s management is responsible for establishing and maintaining
+effective internal control. Internal control is a process designed to provide
+reasonable assurance that objectives pertaining to the reliability of financial
+records; effectiveness and efficiency of operations, including safeguarding of
+assets; and compliance with applicable laws, rules, and regulations are achieved.
+As provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+
+
+                                         13
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to the Division, were
+considered by us during the course of this audit.
+
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect the Division’s ability to maintain reliable financial records,
+operate effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to the Division that did not warrant inclusion in this
+report.
+
+The response from COM, on behalf of the Division, to our findings and
+recommendations is included as an appendix to this report. As prescribed in the
+State Government Article, Section 2-1224 of the Annotated Code of Maryland,
+we will advise COM regarding the results of our review of its response.
+
+
+
+
+                                        14
+                                Exhibit 1
+            Listing of Most Recent Office of Legislative Audits
+     Fiscal Compliance Audits of Comptroller of Maryland Divisions
+                                      As of March 2024
+    Name of Audit                            Areas Covered                      Most Recent
+                                                                                Report Date
+                              Processing, evaluating, verifying, and
+    Revenue Administration     recording of tax data as reported by taxpayers
+1                              and other parties                                  01/22/24
+    Division
+                              Collection of tax receipts
+                              Distribution of tax refunds
+                              Management of the State payroll system
+                              Non-budgeted funds maintained for payroll
+                               deductions
+2   Central Payroll Bureau    Critical information systems                       10/05/23
+                              Support services to other units of the
+                               Comptroller for processing payroll
+                               timekeeping records
+                              Procurement
+                              Equipment
+    Information Technology    Support services to other units of the
+3   Division (Fiscal           Comptroller for monitoring information             02/02/22
+    Operations)                technology related services and maintaining
+                               information technology equipment inventory
+                               records
+    Field Enforcement         Confiscated property
+4                             Business licenses                                  09/07/21
+    Bureau
+                              Routine inspections
+                              State agency vendor payment processing
+    General Accounting        Vendor table maintenance
+5                                                                                 11/09/20
+    Division                  State agency working funds
+                              Corporate purchasing card program
+    Information Technology    Maintenance and monitoring of mainframe
+6   Division – Annapolis       operating system, various security functions,      07/27/20
+    Data Center Operations     and critical databases
+                                Capital grants monitoring
+    Office of the               Procurement and disbursements
+    Comptroller                 Corporate purchasing cards
+7                                                                                 08/29/19
+    Bureau of Revenue           Support services to other divisions of the
+    Estimates                    Comptroller, such as processing invoices,
+                                 maintenance of accounting records, human
+                                 resources, and related fiscal functions
+
+
+
+                                              15
+                                              APPENDIX
+
+                                                                                        Brooke E. Lierman
+                                                                                           Comptroller
+
+                                                                                      Edward F. Wykowski III
+                                                                                             Director
+                                                                                        Compliance Division
+
+                                              April 12, 2024
+
+
+Mr. Gregory A. Hook, CPA
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, MD 21201
+
+Dear Mr. Hook:
+
+       Enclosed is the Comptroller of Maryland’s response to your fiscal compliance audit report of the
+Comptroller of Maryland – Compliance Division for the period beginning March 18, 2019 and ending March
+15, 2022.
+
+       We have carefully reviewed each finding and believe that our written responses satisfy each
+recommendation in the report. If any additional information is needed, please contact Lindsay Welsh,
+Deputy Director – Compliance Division at lwelsh@marylandtaxes.gov or by phone at 410-260-6156.
+
+        The Comptroller appreciates your objective and fair appraisal of our operations and the associated
+recommendations made for improvement. We would also like to commend your audit team for their
+professionalism during the audit, and for performing a thorough review of the Compliance Division.
+
+
+
+___________________________                              April 12, 2024
+                                                         ________________
+Compliance Director                                      Date
+
+
+
+
+___________________________                              04/16/2024
+                                                         ________________
+Agency Head                                              Date
+
+
+
+
+        301 W Preston Street, Baltimore, Maryland 21201 410-767-1555 1-800-552-3941 (MD) www.marylandtaxes.gov
+        Fax: 410-767-1310 Maryland Relay 711 TTY 410-260-7157 compliance@marylandtaxes.gov
+                              Comptroller of Maryland
+                                Compliance Division
+                                  Agency Response Form
+
+       Unclaimed Property
+
+       Finding 1
+       The Division did not always assess penalties when holders of unclaimed
+       property failed to remit such property to the Division.
+
+       We recommend that the Division
+       a. consult with legal counsel to determine the feasibility of retroactively
+          assessing penalties for unremitted unclaimed property identified prior to
+          implementation of the aforementioned law (repeat), and
+       b. develop formal policies and procedures governing waivers of assessments
+          including criteria for the waiver and the related approval process.
+
+                                       Agency Response
+Analysis                Factually Accurate
+Please provide         The finding is factually accurate in the sense that penalties were not
+additional comments as always assessed during the audit period. It is important to note that
+deemed necessary.      amendments to the statute (Commercial Law, § 17-323) effective
+                          October 1, 2022, gave the Comptroller (COM) discretion to waive
+                          penalties when holders of unclaimed property failed to remit such
+                          property.
+Recommendation 1a Agree                                Estimated Completion Date:       04/30/24
+Please provide details of The Unclaimed Property Division has already met with the Office of the
+corrective action or      Attorney General to determine the feasibility and appropriateness of
+explain disagreement. collecting retroactive penalties. After receiving advice from the Office of
+                          the Attorney General and analyzing practical considerations, the
+                          Division decided not to pursue retroactive assessments of penalties.
+                          However, the COM will establish a policy governing the discretionary
+                          assessment of penalties prospectively by April 30, 2024.
+Recommendation 1b Agree                                Estimated Completion Date:       04/30/24
+Please provide details of The Unclaimed Property Division met with the COM’s policy team on
+corrective action or      Friday, September 15, 2023, to begin the process of establishing formal
+explain disagreement. policies and procedures governing waivers of assessments, including
+                          criteria for the waiver and the related approval process.
+
+
+
+
+                                          Page 1 of 6
+                               Comptroller of Maryland
+                                 Compliance Division
+                                  Agency Response Form
+
+      Adjustments to Taxpayer Accounts
+
+      Finding 2
+      Adjustments to business taxpayer accounts processed by one Division unit
+      were not always reviewed by supervisory personnel as required.
+
+      We recommend that the Division
+      a. ensure that critical adjustments to taxpayer accounts identified on output
+         reports are reviewed by an independent supervisor, and that adequate
+         documentation supporting the adjustments and their independent review
+         and approval is maintained (repeat); and
+      b. ensure that adequate supporting documentation is maintained for all
+         adjustments processed.
+
+                                       Agency Response
+Analysis                Factually Accurate
+Please provide         The Division agrees that during the timeframe referenced, it did not
+additional comments as always follow its normal cadence of adjustment reviews by an
+deemed necessary.      independent supervisor or manager. It is also true that the Division
+                        agreed to review all critical adjustments according to its procedures by
+                        April 2020 in the last audit report, however, at that time, we were not
+                        aware that a worldwide pandemic would begin just one month prior to
+                        the date we agreed to implement this action by. In fact, the Division’s
+                        normal operations were severely destabilized for more than 15 months of
+                        the current audit period due to the COVID-19 pandemic. During this
+                        time, the section OLA refers to in Finding 2 was tasked with multiple
+                        projects unrelated to their normal scope of work, while also trying to
+                        manage the wellbeing and safety of its staff. Examples of additional
+                        tasks and projects assigned to this section during the pandemic included
+                        the following:
+
+                               New Tax System Training: Preparation for Release 1 Alcohol
+                                Tax & Corporate Tax.
+                               MD Relief Act 2021: Entire available staff was assisting with
+                                answering emails and questions as well as researching the status
+                                regarding the receipt/non receipt of taxpayer relief act payments.
+                               MD Gas Tax Holiday: Staff reviewed, researched, and approved
+                                gas tax holiday applications for approval or denial of gas tax
+                                refunds and continuously communicated results of findings to
+                                other divisions of the Agency.
+
+                                          Page 2 of 6
+                                Comptroller of Maryland
+                                  Compliance Division
+                                   Agency Response Form
+
+                                Commerce Project: Relief Act related Grants & Loans; staff were
+                                 temporarily assigned to assist the Department of Commerce in
+                                 reviewing and supporting in the approval of grant applications.
+                                Assistance to the General Accounting Division: Performed
+                                 research payment of Relief Act Funds.
+                                Assistance to the Revenue Administration Division: Aided in
+                                 processing Relief Act Funds payments.
+                                Assistance to the Department of Labor: Aided in processing
+                                 unemployment claims.
+
+                        Additionally, the adjustments referenced in this finding are typically
+                        based on an audit and always have corresponding audit packets which
+                        include several levels of documented reviews and approvals; this applies
+                        to audit assessments which both increase and reduce liabilities. The
+                        Division provided samples of such audit files with documented
+                        assessment and refund approvals to the Office of Legislative Audits
+                        during the audit.
+
+Recommendation 2a Agree                              Estimated Completion Date:          9/30/24
+Please provide details of The Division agrees to update its adjustment review procedures to
+corrective action or      ensure that a reasonable number of critical adjustments identified on
+explain disagreement. output reports are reviewed by a supervisor or manager. Documentation
+                          of such reviews and approvals will be maintained for audit purposes.
+Recommendation 2b Agree                              Estimated Completion Date:          4/30/24
+Please provide details of The Division agrees to continue to retain documentation to substantiate
+corrective action or      its adjustments.
+explain disagreement.
+
+
+
+
+                                           Page 3 of 6
+                                Comptroller of Maryland
+                                  Compliance Division
+                                     Agency Response Form
+
+       Liability Intercept Program
+
+       Finding 3
+       The Division did not conduct required supervisory reviews of State payments
+       to taxpayers released from the Liability Intercept Program.
+
+       We recommend that the Division
+       a.    ensure that required supervisory reviews are performed and
+             documented, and
+       b.    review released payments during the aforementioned period and take
+             corrective action for any unsupported or improper funds released.
+
+                                          Agency Response
+Analysis                  Factually Accurate
+Please provide         OLA determined that the supervisory review of the “Vendor Liability Offset
+additional comments as Release Control Report (LORCR)” was not conducted as required for several
+deemed necessary.      months. The Compliance Division agrees that the reviews were not completed
+                       due to an abnormal volume of high priority tasks that directly impacted the
+                       taxpayer community following the resumption of collection actions in August
+                       2021 when the Governor’s Executive Order related to the suspension of
+                       collection activities due to COVID-19 had expired.
+                       The staff that work the Liability Intercept Program are trained to release
+                       payments if they meet one of the following criteria: there are enough funds
+                       already being held to cover the liability, taxpayer is on a payment plan, or there
+                       is a pending adjustment to remove the liability.
+
+Recommendation 3a Agree                                Estimated Completion Date:          Completed
+Please provide details of The LORCR is now being stored on an electronic document storage system and
+corrective action or      two resources have been identified to make sure these reviews are completed in
+explain disagreement. a timely fashion.
+
+
+Recommendation 3b Agree                                Estimated Completion Date:          Completed
+Please provide details of Reviews for the months of August 2021 through February 2024 have been
+corrective action or      completed. Throughout this review, no improper releases have been identified
+explain disagreement. based on the criteria noted above.
+
+
+
+
+                                             Page 4 of 6
+                              Comptroller of Maryland
+                                Compliance Division
+                                   Agency Response Form
+
+       Bay Restoration Fee
+
+       Finding 4
+       The Division only conducted a minimal number of Bay Restoration Fee
+       (BRF) audits and excluded the entities that collected the majority of these
+       fees.
+
+       We recommend that the Division develop a formal plan to subject all entities
+       collecting BRFs to audit, including those noted above, which considers
+       factors such as materiality, risk, and prior audit findings.
+
+                                        Agency Response
+Analysis                Factually Accurate
+Please provide         For context, it’s important to note that entities which collect the majority
+additional comments as of BRF fees are not exempt from audit. These entities were simply not
+deemed necessary.      picked up for audit during the OLA audit period.
+
+                        The Division completes a formal comprehensive audit plan annually
+                        which addresses audit planning topics for each of the tax and fee types
+                        required to be audited. This plan includes its own BRF section with
+                        background information, audit stats, goals, and audit selection
+                        methodology. In addition, the Division routinely performs BRF
+                        delinquency collection runs which identify any entity required to file and
+                        pay BRFs that has not done so during the given period of the run.
+                        Between the audits and collection activities the Division performs for
+                        BRF, we feel that we adequately ensure compliance for this tax type.
+
+                        Furthermore, during the audit period, the Division was placed under the
+                        Governor’s Pandemic Emergency Declaration which prevented it from
+                        conducting any new audits for 15 consecutive months, from March 23,
+                        2020, through July 1, 2021. There were also only two BRF auditors on
+                        staff as of FY22 and those same two auditors were responsible for
+                        conducting Unclaimed Property, Withholding Tax, and BRF audits.
+                        Lastly, audit staff were charged with assisting with the same projects
+                        outlined in our response to Finding 2 during the timeframe referenced.
+Recommendation 4        Agree                       Estimated Completion Date:         7/01/24
+
+
+
+
+                                           Page 5 of 6
+                              Comptroller of Maryland
+                                Compliance Division
+                                   Agency Response Form
+
+Please provide details of The Division agrees to add elements of materiality, risk, and prior audit
+corrective action or      findings to the existing formal audit plan beginning with the plan for
+explain disagreement. FY25.
+
+
+
+
+                                           Page 6 of 6
+         AUDIT TEAM
+   Michael J. Murdzak, CPA
+        Audit Manager
+
+    Edwin L. Paul, CPA, CISA
+Information Systems Audit Manager
+
+
+     James M. Fowler, CFE
+        Senior Auditor
+
+         Charles O. Price
+Information Systems Senior Auditor
+
+
+       Matthew P. Henry
+       Daniel G. Johnson
+       Yuvaraj N. Sharma
+         Staff Auditors
+
